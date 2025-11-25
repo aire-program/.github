@@ -4,13 +4,13 @@ The Applied AI Innovation & Research Enablement (AIRE) Program is an institution
 
 AIRE combines three complementary pillars that together support learning, experimentation, and decision intelligence:
 
-**• Applied AI Literacy Hub**  
+**Applied AI Literacy Hub**  
 Teaching-ready microcourses, tutorials, and foundational materials that help non-technical audiences build practical, discipline-aware AI literacy. The Hub introduces core concepts, supports responsible use in classrooms and advising, and provides learning pathways grounded in accessibility and ethical practice.
 
-**• Researcher Sandbox**  
+**Researcher Sandbox**  
 A reproducible, method-focused environment—originally deployed in the college’s internal GitLab—where researchers and graduate students can explore AI-enabled workflows. Colab-ready notebooks demonstrate techniques such as OCR, entity recognition, embeddings, retrieval-augmented generation, and evaluation patterns that can be adapted to diverse research contexts.
 
-**• Program Impact Dashboard**  
+**Program Impact Dashboard**  
 An institutional analytics layer that models participation patterns, confidence shifts, readiness indicators, and program KPIs using synthetic datasets that mirror internal structures. The dashboard, originally deployed on internal MSU web services, supports leadership planning, professional development strategy, and continuous evaluation of responsible AI adoption.
 
 These public repositories are mirrors of the internally deployed versions, shared to support transparency, reproducibility, collaboration, and alignment with community standards for responsible AI integration in education and research. All examples use synthetic data only, and no institutional, student, or research data is included.
