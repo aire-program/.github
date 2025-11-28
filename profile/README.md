@@ -1,6 +1,4 @@
 # Applied AI Innovation and Research Enablement (AIRE) Program  
-College of Social Science  
-Michigan State University
 
 ## Overview
 
